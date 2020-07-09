@@ -21,6 +21,7 @@ A simple Swift-based interface to Redis, using CocoaAsyncSocket as the networkin
   s.social_media_url = 'https://twitter.com/esilverberg'
 
   s.ios.deployment_target = '9.0'
+  s.osx.deployment_target = '10.15'
 
   s.source_files = 'PSSRedisClient/Classes/**/*'
   
